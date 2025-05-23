@@ -72,7 +72,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AslamMardin/AslamMardin/output/pacman-contribution-graph.svg">
 </picture>
 
-<img src="https://raw.githubusercontent.com/AslamMardin/AslamMardin/output/snake.svg" alt="Snake animation" />
 
 
 ##### 📱 Sosial Media & Kontak
