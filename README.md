@@ -77,7 +77,7 @@
 
 ##### 📚 Skill Language Program
 <!-- Bahasa Pemrograman -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,vue,react,python,flutter,laravel" />
   </a>
@@ -118,14 +118,11 @@
 
 --- -->
 
-⭐️ Terima kasih telah mengunjungi profil saya!
-
-
 <br clear="both">
 
-<h1 align="left">Hi 👋! Nama Saya Aslam Mardin</h1>
+<!-- <h1 align="left">Hi 👋! Nama Saya Aslam Mardin</h1> -->
 
-###
+### Statistik Github
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AslamMardin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
