@@ -187,13 +187,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+##### 📱 Sosial Media & Kontak
+<div class="card-body">
+  <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+    <a href="https://www.facebook.com/aslm.mrdyn" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    </a>
+    <a href="https://twitter.com/aslam99mardin" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    </a>
+    <a href="https://instagram.com/aslammardin" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <a href="https://wa.me/6285825587404" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="https://youtube.com/user/FannyBonde" target="_blank" style="display: inline-block;">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </a>
+  </div>
 </div>
-
-###
 
 <br clear="both">
 
