@@ -2,9 +2,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=Halo%2C+Saya+Aslam+Mardin!;Mahasiswa+dan+Dosen+Teknik+Komputer;Full+Stack+Developer;Pakar+Jaringan" alt="Typing Animation" />
 </h1>
 
-<!-- <h3 align="center">🎓 Dosen | Desainer | Programmer | Teknisi | Data Analyst</h3> -->
+<h3 align="center">🎓 Dosen | Desainer | Programmer | Teknisi | Data Analyst</h3>
 
-![AslamMardin](github-header-image.png)
+<!-- ![AslamMardin](github-header-image.png) -->
 
 
 ##### 👋 Tentang Saya
