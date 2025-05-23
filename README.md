@@ -8,11 +8,11 @@
 
 
 ##### 👋 Tentang Saya
--🎓 Lulusan S1 **Universitas Al Asyariah Mandar**
--🎓 Lulusan S2 **Universitas Handayani Makassar**
--💼 Saat ini: **PJ Media Center Pondok Pesantren Modern Al-Ikhlash Lampoko**
--👨‍🏫 Dosen di Sulawesi Barat, mengajar desain, jaringan, dan komputer
--👨‍💻 Mahir dalam pengembangan web, jaringan, service hardware, dan analisis data
+- 🎓 Lulusan S1 **Universitas Al Asyariah Mandar**
+- 🎓 Lulusan S2 **Universitas Handayani Makassar**
+- 💼 Saat ini: **PJ Media Center Pondok Pesantren Modern Al-Ikhlash Lampoko**
+- 👨‍🏫 Dosen di Sulawesi Barat, mengajar desain, jaringan, dan komputer
+- 👨‍💻 Mahir dalam pengembangan web, jaringan, service hardware, dan analisis data
 
 ##### 📱 Kemampuan
 
